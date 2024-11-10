@@ -5,16 +5,11 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" border="0" alt="animated-line-image-0124" width="1920" height="2.5" />
 </a>
 
-<img align="right" alt="coding" width="230" height="100" 
-src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e4727ttznnw4wkosbhk5ylvaf4qaymz8cj454t3wymp&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="500"/>
-<img align="right" alt="coding" width="115" height="100" 
-src="https://media.giphy.com/media/ZY3W96Mvat8EFTCclA/giphy.gif?cid=ecf05e47wm82c70zz94dtravtqqpu1n57kdw6opct3dj14pr&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="500"/>
-<p style="font-family: 'Courier New', monospace;">I'm a beginner programmer 🖥️ learning <strong>Java</strong> ☕ & exploring <strong>Data Structures</strong> 📚<br>Check out my projects and contributions!</p>
 
+  <img align="right" alt="coding" width="340" height="320" 
+src="https://media.giphy.com/media/2uxxXyTRFgIJaOZJTb/giphy.gif?cid=ecf05e47qqlchu4k2ypz9hrpkh8l84rmoh4nglgjo0y0zfmh&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Animated GIF" width="500"/>
 ### 🔭 Current Focus
 - Learning Java & its core concepts like classes, inheritance etc
-  <img align="right" alt="coding" width="340" height="270" 
-src="https://media.giphy.com/media/2uxxXyTRFgIJaOZJTb/giphy.gif?cid=ecf05e47qqlchu4k2ypz9hrpkh8l84rmoh4nglgjo0y0zfmh&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Animated GIF" width="500"/>
 - Exploring DSA to enhance problem - solving skills
  
 ### 🌱 Learning
