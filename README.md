@@ -4,20 +4,22 @@
 <a href="https://www.animatedimages.org/cat-lines-562.htm">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" border="0" alt="animated-line-image-0124" width="1920" height="2.5" />
 </a>
-<p style="font-family: 'Courier New', monospace;">I'm a <strong>beginner programmer</strong> 🖥️ exploring the world of coding. I’m currently learning <strong>Java</strong> ☕ and diving into <strong>Data Structures (DS)</strong> 📚. Feel free to check out my projects and contributions. Here's a bit more about me:</p>
+<p style="font-family: 'Courier New', monospace;">I'm a <strong>beginner programmer</strong> 🖥️ exploring the world of coding.
+I’m currently learning <strong>Java</strong> ☕ and diving into <strong>Data Structures (DS)</strong> 📚
+Feel free to check out my projects and contributions.   Here's a bit more about me:</p>
 
 <img align="right" alt="coding" width="300" height="320" 
 src="https://media.giphy.com/media/2uxxXyTRFgIJaOZJTb/giphy.gif?cid=ecf05e47qqlchu4k2ypz9hrpkh8l84rmoh4nglgjo0y0zfmh&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Animated GIF" width="500"/>
 
 ### 🔭 Current Focus
-- Learning Java and its core concepts like classes, methods, inheritance, and file handling.
-- Exploring Data Structures (DS) and algorithms to enhance problem-solving skills.
+- Learning Java and its core concepts like classes, methods, inheritance etc
+- Exploring Data Structures & algorithms to enhance problem - solving skills
  
 ### 🌱 Learning
 - **Languages**: Java (beginner), Data Structures (beginner)
 - **Topics I'm focusing on**: 
   - Java programming concepts
-  - Basic algorithms and Data Structures like linked lists, stacks, and queues.
+  - Basic algorithms & Data Structures like linked lists, stacks, and queues
  
 
 ### 💬 Ask me about:
