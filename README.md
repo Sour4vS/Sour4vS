@@ -3,6 +3,25 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Sour4vS&color=blue) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ![Availability](https://img.shields.io/badge/Status-Active-green) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ![Java](https://img.shields.io/badge/Java-Beginner-orange) 
 
+Welcome to my GitHub profile! I'm a beginner programmer exploring the world of coding. I’m currently learning Java and diving into Data Structures (DS). Feel free to check out my projects and contributions. Here's a bit more about me:
+
+### 🔭 Current Focus
+- Learning Java and its core concepts like classes, methods, inheritance, and file handling.
+- Exploring Data Structures (DS) and algorithms to enhance problem-solving skills.
+
+### 🌱 Learning
+- **Languages**: Java (beginner), Data Structures (beginner)
+- **Topics I'm focusing on**: 
+  - Java programming concepts
+  - Basic algorithms and Data Structures like linked lists, stacks, and queues.
+
+### 💬 Ask me about:
+- Java basics like classes, objects, and methods
+- Data Structures concepts like arrays, linked lists, and trees
+- General programming queries!
+
+### 📫 How to reach me:
+- **Email**: sour4vs@example.com
 
 
 
