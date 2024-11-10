@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a beginner programmer exploring the world of c
 - General programming queries!
 
 ### 📫 How to reach me:
-- **Email**: sour4vs@example.com
+- **Email**: sour4vs@gmail.com
 
 
 
