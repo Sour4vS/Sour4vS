@@ -4,11 +4,13 @@
 <a href="https://www.animatedimages.org/cat-lines-562.htm">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" border="0" alt="animated-line-image-0124" width="1920" height="2.5" />
 </a>
-<p style="font-family: 'Courier New', monospace;">I'm a <strong>beginner programmer</strong> 🖥️ exploring the world of coding.
-I’m currently learning <strong>Java</strong> ☕ and diving into <strong>Data Structures (DS)</strong> 📚
-Feel free to check out my projects and contributions.   Here's a bit more about me:</p>
+<img align="right" alt="coding" width="230" height="70" 
+src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e4727ttznnw4wkosbhk5ylvaf4qaymz8cj454t3wymp&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="500"/>
+<img align="right" alt="coding" width="115" height="70" 
+src="https://media.giphy.com/media/ZY3W96Mvat8EFTCclA/giphy.gif?cid=ecf05e47wm82c70zz94dtravtqqpu1n57kdw6opct3dj14pr&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="500"/>
+<p style="font-family: 'Courier New', monospace;">I'm a beginner programmer 🖥️ learning <strong>Java</strong> ☕ & exploring <strong>Data Structures</strong> 📚<br>Check out my projects and contributions!</p>
 
-<img align="right" alt="coding" width="300" height="320" 
+<img align="right" alt="coding" width="340" height="320" 
 src="https://media.giphy.com/media/2uxxXyTRFgIJaOZJTb/giphy.gif?cid=ecf05e47qqlchu4k2ypz9hrpkh8l84rmoh4nglgjo0y0zfmh&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Animated GIF" width="500"/>
 
 ### 🔭 Current Focus
@@ -23,7 +25,7 @@ src="https://media.giphy.com/media/2uxxXyTRFgIJaOZJTb/giphy.gif?cid=ecf05e47qqlc
  
 
 ### 💬 Ask me about:
-<img align="right" alt="coding" width="130" height="170" 
+<img align="right" alt="coding" width="170" height="170" 
 src="https://media.giphy.com/media/L7AIyTuXaszW3shL0F/giphy.gif?cid=ecf05e47skdrznhys85dxei2bwzxio4l0x9doibujaexv0t1&ep=v1_gifs_related&rid=giphy.gif&ct=g"/>
 
 
