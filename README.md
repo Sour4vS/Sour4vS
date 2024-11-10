@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a beginner programmer exploring the world of c
   - Basic algorithms and Data Structures like linked lists, stacks, and queues.
 
 ### 💬 Ask me about:
-- Java basics like classes, objects, and methods
+- Java basics 
 - Data Structures concepts like arrays, linked lists, and trees
 - General programming queries!
 
