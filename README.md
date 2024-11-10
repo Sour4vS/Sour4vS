@@ -12,7 +12,7 @@ src="https://media.giphy.com/media/ZY3W96Mvat8EFTCclA/giphy.gif?cid=ecf05e47wm82
 <p style="font-family: 'Courier New', monospace;">I'm a beginner programmer 🖥️ learning <strong>Java</strong> ☕ & exploring <strong>Data Structures</strong> 📚<br>Check out my projects and contributions!</p>
 
 ### 🔭 Current Focus
-- Learning Java and its core concepts like classes, methods, inheritance etc
+- Learning Java & its core concepts like classes, methods, inheritance etc
   <img align="right" alt="coding" width="340" height="270" 
 src="https://media.giphy.com/media/2uxxXyTRFgIJaOZJTb/giphy.gif?cid=ecf05e47qqlchu4k2ypz9hrpkh8l84rmoh4nglgjo0y0zfmh&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Animated GIF" width="500"/>
 - Exploring Data Structures & algorithms to enhance problem - solving skills
