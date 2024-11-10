@@ -1,13 +1,9 @@
-# Hi there! I'm Sourav 👋
+# Hi there! I'm Sourav 👋✨
 
 ![Profile views](https://komarev.com/ghpvc/?username=Sour4vS&color=blue) &nbsp;&nbsp;&nbsp; ![Availability](https://img.shields.io/badge/Status-Active-green) &nbsp;&nbsp;&nbsp; ![Java](https://img.shields.io/badge/Java-Beginner-orange) &nbsp;&nbsp;&nbsp; ![DS](https://img.shields.io/badge/Data_Structures-Beginner-blue) &nbsp;&nbsp;&nbsp; ![Open_issues](https://img.shields.io/github/issues/Sour4vS/REPOSITORY_NAME?color=red)
  &nbsp;&nbsp;&nbsp; ![GitHub followers](https://img.shields.io/github/followers/Sour4vS?label=Followers&color=yellow)
 
-# Welcome to my GitHub profile! 👋
-
-## I'm a **beginner programmer** exploring the world of coding.
-### I’m currently learning **Java** and diving into **Data Structures (DS)**.
-#### Feel free to check out my projects and contributions. Here's a bit more about me:
+<p style="font-family: 'Courier New', monospace;">I'm a <strong>beginner programmer</strong> 🖥️ exploring the world of coding. I’m currently learning <strong>Java</strong> ☕ and diving into <strong>Data Structures (DS)</strong> 📚. Feel free to check out my projects and contributions. Here's a bit more about me:</p>
 
 
 ### 🔭 Current Focus
