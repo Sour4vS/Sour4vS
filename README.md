@@ -30,8 +30,6 @@ src="https://media.giphy.com/media/DLz5I4BGyRSOlbSC3o/giphy.gif?cid=ecf05e47vtb5
 - Data Structures concepts like arrays, linked lists, and trees.
 - General programming queries!
 
----
-
 ### 📫 How to reach me:
 - **Email**: sour4vs@gmail.com
 
