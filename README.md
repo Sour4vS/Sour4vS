@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-![Profile views](https://komarev.com/ghpvc/?Sour4vS&color=blue)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?Sour4vS&color=blue" alt="Profile views">
+</div>
 
 
 
