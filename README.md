@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-# Hi there 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=Sour4vS&color=blue) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; ![Availability](https://img.shields.io/badge/Status-Active-green) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; ![Java](https://img.shields.io/badge/Java-Expert-orange) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://your-portfolio-link.com)
 
