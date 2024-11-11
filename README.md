@@ -42,7 +42,7 @@ Here, you'll find my journey as I build projects 🛠️ and solve problems 🧩
       <img align="right" width=300 height="160" src="https://github-readme-stats.vercel.app/api?username=Sour4vS&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
 </a>
 
-
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sour4vS&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 
 <!-- Add any other details you'd like to share here! -->
