@@ -37,7 +37,7 @@ Here, you'll find my journey as I build projects 🛠️ and solve problems 🧩
  </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=305 height="160" src="https://github-readme-stats.vercel.app/api?username=Sour4vS&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
+      <img align="right" width=307 height="160" src="https://github-readme-stats.vercel.app/api?username=Sour4vS&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
 </a>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
   <img align="center" width="180" height="140" src="https://media.giphy.com/media/ZvLUtG6BZkBi0/giphy.gif?cid=ecf05e47gdooa6q98bigj494csljkpez6thlwrkgcmaambp1&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
