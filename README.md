@@ -42,11 +42,6 @@ Here, you'll find my journey as I build projects 🛠️ and solve problems 🧩
       <img align="right" width=300 height="160" src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
 </a>
 
-<!-- Snake animation GIF -->
-<!-- Snake animation -->
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 
 
