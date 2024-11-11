@@ -41,13 +41,7 @@ Here, you'll find my journey as I build projects 🛠️ and solve problems 🧩
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=300 height="170" src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
 </a>
-<br><br>
 
-<!--Snake-->
-<!--Snake-->
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Sour4vS/Sour4vS/output/snake.svg" alt="Snake animation" />
-</div>
 
 
 <!-- Add any other details you'd like to share here! -->
