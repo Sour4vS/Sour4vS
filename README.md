@@ -32,17 +32,18 @@ Here, you'll find my journey as I build projects 🛠️ and solve problems 🧩
 
 ---
 
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=300 height="160" src="https://streak-stats.demolab.com/?user=Sour4vS&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
- </a>
+ <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <img align="left" width="305" height="160" src="https://streak-stats.demolab.com/?user=Sour4vS&theme=react&border=61dafb&hide_border=true" alt="streak-stats" style="margin-top: 20px;"/>
+</a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=307 height="160" src="https://github-readme-stats.vercel.app/api?username=Sour4vS&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
+    <img align="right" width="307" height="160" src="https://github-readme-stats.vercel.app/api?username=Sour4vS&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="github-stats" style="margin-top: 20px;"/>
 </a>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-  <img align="center" width="185" height="140" src="https://media.giphy.com/media/ZvLUtG6BZkBi0/giphy.gif?cid=ecf05e47gdooa6q98bigj494csljkpez6thlwrkgcmaambp1&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
-  </a>  
-  
+
+<a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <img align="center" width="185" height="140" src="https://media.giphy.com/media/ZvLUtG6BZkBi0/giphy.gif?cid=ecf05e47gdooa6q98bigj494csljkpez6thlwrkgcmaambp1&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="display: block; margin: 20px auto;"/>
+</a>
+
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sour4vS&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <!-- Add any other details you'd like to share here! -->
