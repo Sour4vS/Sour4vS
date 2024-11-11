@@ -1,24 +1,29 @@
 # Hi there! I'm Sourav 👋
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-![Profile views](https://komarev.com/ghpvc/?username=Sour4vS&color=blue) &nbsp;&nbsp;&nbsp; ![Availability](https://img.shields.io/badge/Status-Active-green) &nbsp;&nbsp;&nbsp; ![Java](https://img.shields.io/badge/Java-Beginner-orange) &nbsp;&nbsp;&nbsp; ![DS](https://img.shields.io/badge/Data_Structures-Beginner-blue) &nbsp;&nbsp;&nbsp; ![Open_issues](https://img.shields.io/github/issues/Sour4vS/REPOSITORY_NAME?color=red) &nbsp;&nbsp;&nbsp; ![GitHub followers](https://img.shields.io/github/followers/Sour4vS?label=Followers&color=yellow)
+![Profile views](https://komarev.com/ghpvc/?username=Sour4vS&color=blue) &nbsp;&nbsp;&nbsp; 
+![Availability](https://img.shields.io/badge/Status-Active-blue) &nbsp;&nbsp;&nbsp; 
+![Java](https://img.shields.io/badge/Java-Beginner-blue) &nbsp;&nbsp;&nbsp; 
+![DS](https://img.shields.io/badge/Data_Structures-Beginner-blue) &nbsp;&nbsp;&nbsp; 
+![GitHub followers](https://img.shields.io/github/followers/Sour4vS?label=Followers&color=lightblue)
 
-## 🔭 What I'm Working On
+
+## 🌊 What I'm Working On
 
 - **Java Basics**: Building a strong foundation in Java programming 💻, covering classes, objects, methods, and OOP principles.
-- **Data Structures**: Learning linked lists, stacks, queues, and more 📚 to sharpen my problem-solving abilities.
+- **Data Structures**: Learning linked lists, stacks, queues, and more 📘 to sharpen my problem-solving abilities.
 
-## 🌱 Learning Journey
+## 🌐 Learning Journey
 
 - **Core Java**: Constructors, inheritance, method overloading, exception handling, and file I/O.
 - **Problem-Solving**: Solving algorithmic challenges to deepen my understanding of data structures and improve efficiency 🚀.
 
-## 📂 Featured Projects
+## 🗂 Featured Projects
 
 - **Basic Java Programs**: Small projects to demonstrate Java concepts like string manipulation, matrix operations, file handling, and multithreading.
 - **Data Structure Implementations**: Linked lists, stacks, and other foundational data structures coded from scratch 🔢.
 
-## 📫 Connect with Me
+## 📬 Connect with Me
 
 - GitHub: [Sour4vS](https://github.com/Sour4vS)
 
