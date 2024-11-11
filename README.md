@@ -31,7 +31,17 @@ Here, you'll find my journey as I build projects 🛠️ and solve problems 🧩
 
 ---
 
-Thanks for visiting my profile!  Feel free to explore my repos and follow along on my coding journey.
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 height="150" src="https://streak-stats.demolab.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+ </a>
+   <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+  <img align="center" width="212" height="150" src="https://media.giphy.com/media/ZvLUtG6BZkBi0/giphy.gif?cid=ecf05e47gdooa6q98bigj494csljkpez6thlwrkgcmaambp1&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+  </a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=370 height="150" src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+</a>
+
 
 
 
