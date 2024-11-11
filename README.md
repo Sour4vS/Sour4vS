@@ -35,7 +35,7 @@ Here, you'll find my journey as I build projects 🛠️ and solve problems 🧩
       <img align="left" width=300 height="160" src="https://streak-stats.demolab.com/?user=Sour4vS&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
  </a>
    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-  <img align="center" width="200" height="140" src="https://media.giphy.com/media/bySxDJqfaC39S/giphy.gif?cid=ecf05e47nrknuz3nh73uex5acbi05enjqfvyirsbbl867fx1&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+  <img align="center" width="210" height="130" src="https://media.giphy.com/media/bySxDJqfaC39S/giphy.gif?cid=ecf05e47nrknuz3nh73uex5acbi05enjqfvyirsbbl867fx1&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
   </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
