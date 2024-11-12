@@ -28,7 +28,7 @@ Here, you'll find my journey as I build projects 🛠️ and solve problems 🧩
 
 ## 📫 Connect with Me
 
-- GitHub: [Sour4vS](https://github.com/Sour4vS)
+- Gmail: Sour4vS@gmail.com
 
 ---
 
