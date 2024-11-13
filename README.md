@@ -30,8 +30,6 @@ Here, you'll find my journey as I build projects 🛠️ and solve problems 🧩
 
 - Gmail: Sour4vS@gmail.com
 
----
-
 <table align="center" style="width:100%; border-collapse: collapse; margin-bottom: 20px;">
     <tr>
         <td width="40%" align="right">
