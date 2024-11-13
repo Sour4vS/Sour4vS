@@ -51,27 +51,22 @@ Here, you'll find my journey as I build projects 🛠️ and solve problems 🧩
     </tr>
 </table>
 
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a href="https://github.com/Sour4vS/Java101" title="Java101"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Sour4vS&repo=Java101&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a href="https://github.com/Sour4vS/LabStructures" title="LabStructures"><img height="150" style="margin-left: 20px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Sour4vS&repo=LabStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br><br>
+<div width="100%" align="center">
+  <a href="https://github.com/Sour4vS/Java_lab" title="Java_lab"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Sour4vS&repo=Java_lab&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a href="https://github.com/Sour4vS/Sour4vS" title="Sour4vS"><img height="150" style="margin-left: 20px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Sour4vS&repo=Sour4vS&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+<h4 align="center">
+  <a href="https://github.com/Sour4vS?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
 
 
-<!-- Activity Graph -->
-<div align="center">
-    <img src="https://github-readme-activity-graph.ver
-2
-<!-- Add any other details you'd like to share here! -->
 
-
-
-<!--
-**Sour4vS/Sour4vS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
