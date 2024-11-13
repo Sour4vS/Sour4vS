@@ -5,7 +5,6 @@
 <a href="https://www.animatedimages.org/cat-lines-562.htm">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" border="0" alt="animated-line-image-0124" width="1920" height="2.5" />
 </a>
-
 <br><br>
 Welcome to my GitHub profile!🌟 
 I'm currently exploring Java ☕ and diving into Data structures 📊  <br>
@@ -50,8 +49,14 @@ Here, you'll find my journey as I build projects 🛠️ and solve problems 🧩
         </td>
     </tr>
 </table>
+ <br>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sour4vS&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Repositories!🚀🚀;&center=true&size=30">
+  </a>
+</h1>
 <br>
 <div width="100%" align="center">
   <a href="https://github.com/Sour4vS/Java101" title="Java101"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Sour4vS&repo=Java101&theme=react&border_color=61dafb&border_radius=10"></a>
