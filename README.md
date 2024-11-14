@@ -35,23 +35,23 @@ Here, you'll find my journey as I build projects 🛠️ and solve problems 🧩
 ## 📫 Connect with Me
 
 - Gmail: Sour4vS@gmail.com
-
 <table align="center" style="width:100%; border-collapse: collapse; margin-bottom: 20px;">
     <tr>
         <td width="40%" align="right">
-                <img src="https://streak-stats.demolab.com/?user=Sour4vS&theme=react&border=61dafb&hide_border=true" alt="streak-stats" style="width: 100%; border-radius: 10px;" />
+            <img src="https://streak-stats.demolab.com/?user=Sour4vS&theme=react&border=61dafb&hide_border=true" 
+                 alt="streak-stats" style="width: 90%; border-radius: 10px;" />
         </td>
-      <td width="20%" align="center" style="border: none; padding: 0;">
-    <a href="https://giphy.com/" title="Go to Source" style="border: none;">
-        <img src="https://media.giphy.com/media/UCm27xoAXWkG6eZk0n/giphy.gif?cid=ecf05e473ce4pvsjkyw7e4ee6im7g7tv957qwuhi341rr3tr&ep=v1_gifs_search&rid=giphy.gif&ct=g" 
-             alt="Center GIF" style="width: 100%; border: none;" />
-    </a>
-</td>
-         <td width="40%" align="left">
-           <img src="https://github-readme-stats.vercel.app/api?username=Sour4vS&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="github-stats" style="width: 100%; border-radius: 10px;" />
+        <td width="20%" align="center" style="border: none; padding: 0;">
+            <img src="https://media.giphy.com/media/ZvLUtG6BZkBi0/giphy.gif?cid=ecf05e47gdooa6q98bigj494csljkpez6thlwrkgcmaambp1&ep=v1_gifs_search&rid=giphy.gif&ct=g" 
+                 alt="Center GIF" style="width: 100%; border: none;" />
+        </td>
+        <td width="40%" align="left">
+            <img src="https://github-readme-stats.vercel.app/api?username=Sour4vS&show_icons=true&theme=react&border_color=61dafb&hide_border=true" 
+                 alt="github-stats" style="width: 90%; border-radius: 10px;" />
         </td>
     </tr>
 </table>
+
  
 
  <table>
