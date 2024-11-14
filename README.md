@@ -60,9 +60,9 @@ Here, you'll find my journey as I build projects 🛠️ and solve problems 🧩
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sour4vS&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
     </td>
     <td width="26%">
-      <img src="https://media.giphy.com/media/bySxDJqfaC39S/giphy.gif?cid=ecf05e47dw0rii4szj7jn0vvp2fhhq9lnceez2e293yg0ccn&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
-    </td>
-  </tr>
+   <img src="https://github.com/Sour4vS/Sour4vS/blob/main/829afba7de253e927c9c56bd58c4ba3d.gif" width="100%">
+</td>
+
 </table>
 
 
