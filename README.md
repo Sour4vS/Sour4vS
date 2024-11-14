@@ -32,9 +32,7 @@ Here, you'll find my journey as I build projects 🛠️ and solve problems 🧩
 <table align="center" style="width:100%; border-collapse: collapse; margin-bottom: 20px;">
     <tr>
         <td width="40%" align="right">
-            <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
                 <img src="https://streak-stats.demolab.com/?user=Sour4vS&theme=react&border=61dafb&hide_border=true" alt="streak-stats" style="width: 100%; border-radius: 10px;" />
-            </a>
         </td>
       <td width="20%" align="center" style="border: none; padding: 0;">
     <a href="https://giphy.com/" title="Go to Source" style="border: none;">
@@ -43,9 +41,7 @@ Here, you'll find my journey as I build projects 🛠️ and solve problems 🧩
     </a>
 </td>
          <td width="40%" align="left">
-            <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-                <img src="https://github-readme-stats.vercel.app/api?username=Sour4vS&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="github-stats" style="width: 100%; border-radius: 10px;" />
-            </a>
+           <img src="https://github-readme-stats.vercel.app/api?username=Sour4vS&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="github-stats" style="width: 100%; border-radius: 10px;" />
         </td>
     </tr>
 </table>
