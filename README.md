@@ -35,17 +35,12 @@ Here, you'll find my journey as I build projects 🛠️ and solve problems 🧩
 ## 📫 Connect with Me
 
 - Gmail: Sour4vS@gmail.com
-<table align="center" style="width:100%; border-collapse: collapse; margin-bottom: 20px;">
+<table align="center" style="width:80%; border-collapse: collapse; margin-bottom: 20px;">
     <tr>
-        <td width="40%" align="right">
-            <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-                <img src="https://streak-stats.demolab.com/?user=Sour4vS&theme=react&border=61dafb&hide_border=true" alt="streak-stats" style="width: 100%; border-radius: 10px;" />
-            </a>
+        <td width="30%" align="center" style="border: none; padding: 0;">
+            <img src="https://media.giphy.com/media/l2R0cvMrULqv6se4M/giphy.gif?cid=ecf05e47j1evqibdjuhutc2thiv7fah0cbo4996qbrn0mhu5&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Center GIF" style="width: 100%; border: none;" />
         </td>
-      <td width="20%" align="center" style="border: none; padding: 0;">
-    <img src="https://media.giphy.com/media/l2R0cvMrULqv6se4M/giphy.gif?cid=ecf05e47j1evqibdjuhutc2thiv7fah0cbo4996qbrn0mhu5&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Center GIF" style="width: 100%; border: none;" />
-</td>
-         <td width="40%" align="left">
+        <td width="70%" align="left">
             <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
                 <img src="https://github-readme-stats.vercel.app/api?username=Sour4vS&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="github-stats" style="width: 100%; border-radius: 10px;" />
             </a>
@@ -65,6 +60,8 @@ Here, you'll find my journey as I build projects 🛠️ and solve problems 🧩
 </td>
 
 </table>
+
+
 
 
   
