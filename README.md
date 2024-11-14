@@ -35,33 +35,28 @@ Here, you'll find my journey as I build projects 🛠️ and solve problems 🧩
 ## 📫 Connect with Me
 
 - Gmail: Sour4vS@gmail.com
+
+ <!-- First Table -->
 <table align="center" style="width:80%; border-collapse: collapse; margin-bottom: 20px;">
     <tr>
         <td width="30%" align="center" style="border: none; padding: 0;">
             <img src="https://media.giphy.com/media/l2R0cvMrULqv6se4M/giphy.gif?cid=ecf05e47j1evqibdjuhutc2thiv7fah0cbo4996qbrn0mhu5&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Center GIF" style="width: 100%; border: none;" />
         </td>
-        <td width="70%" align="left">
-            <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-                <img src="https://github-readme-stats.vercel.app/api?username=Sour4vS&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="github-stats" style="width: 100%; border-radius: 10px;" />
-            </a>
+        <td width="70%" align="left" style="padding: 0;">
+            <img src="https://github-readme-stats.vercel.app/api?username=Sour4vS&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="github-stats" style="width: 100%; border-radius: 10px;" />
         </td>
     </tr>
 </table>
 
- 
-
- <table>
-  <tr>
-    <td width="73%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sour4vS&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-    </td>
-    <td width="26%">
-   <img src="https://github.com/Sour4vS/Sour4vS/blob/main/829afba7de253e927c9c56bd58c4ba3d.gif" width="100%">
-</td>
-
+<!-- Second Table -->
+<table align="center" style="width:80%; border-collapse: collapse;">
+    <tr>
+        <td width="70%" align="center" style="padding: 0;">
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sour4vS&theme=react-dark&bg_color=20232a&hide_border=true" alt="activity-graph" style="width: 100%; border-radius: 10px;" />
+        </td>
+        <td width="30%" align="center" style="padding: 0;">
+            <img src="https://github.com/Sour4vS/Sour4vS/blob/main/829afba7de253e927c9c56bd58c4ba3d.gif" alt="Side GIF" style="width: 100%; border-radius: 10px;" />
+        </td>
+    </tr>
 </table>
-
-
-
-
-  
+    
