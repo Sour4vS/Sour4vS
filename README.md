@@ -33,26 +33,37 @@ Here, you'll find my journey as I build projects 🛠️ and solve problems 🧩
     <tr>
         <td width="40%" align="right">
             <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-                <img src="https://streak-stats.demolab.com/?user=Sour4vS&theme=react&border=61dafb&hide_border=true" alt="streak-stats" style="width: 90%; border-radius: 10px;" />
+                <img src="https://streak-stats.demolab.com/?user=Sour4vS&theme=react&border=61dafb&hide_border=true" alt="streak-stats" style="width: 100%; border-radius: 10px;" />
             </a>
         </td>
       <td width="20%" align="center" style="border: none; padding: 0;">
     <a href="https://giphy.com/" title="Go to Source" style="border: none;">
-        <img src="https://media.giphy.com/media/ZvLUtG6BZkBi0/giphy.gif?cid=ecf05e47gdooa6q98bigj494csljkpez6thlwrkgcmaambp1&ep=v1_gifs_search&rid=giphy.gif&ct=g" 
+        <img src="https://media.giphy.com/media/UCm27xoAXWkG6eZk0n/giphy.gif?cid=ecf05e473ce4pvsjkyw7e4ee6im7g7tv957qwuhi341rr3tr&ep=v1_gifs_search&rid=giphy.gif&ct=g" 
              alt="Center GIF" style="width: 100%; border: none;" />
     </a>
 </td>
          <td width="40%" align="left">
             <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-                <img src="https://github-readme-stats.vercel.app/api?username=Sour4vS&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="github-stats" style="width: 90%; border-radius: 10px;" />
+                <img src="https://github-readme-stats.vercel.app/api?username=Sour4vS&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="github-stats" style="width: 100%; border-radius: 10px;" />
             </a>
         </td>
     </tr>
 </table>
- <br>
+ 
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sour4vS&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-<h1 align="center">
+ <table>
+  <tr>
+    <td width="73%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sour4vS&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+    </td>
+    <td width="26%">
+      <img src="https://media.giphy.com/media/bySxDJqfaC39S/giphy.gif?cid=ecf05e47dw0rii4szj7jn0vvp2fhhq9lnceez2e293yg0ccn&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+    </td>
+  </tr>
+</table>
+
+
+  <h1 align="center">
   <h2 align="center"> Repositories 🚀</h2>
 <br>
 </h1>
