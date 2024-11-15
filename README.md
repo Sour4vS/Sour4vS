@@ -62,10 +62,10 @@ Here, you'll find my journey as I build projects 🛠️ and solve problems 🧩
     
 <table>
   <tr>
-     <td width="30%" align="center" style="border: none; padding: 0;">
+     <td width="27%" align="center" style="border: none; padding: 0;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sour4vS&theme=github_dark" alt="Productive Time Card" />
     </td>
-    <td width="70%" align="left" style="padding: 0;">
+    <td width="73%" align="left" style="padding: 0;">
     <strong>Today's developer quotes! 💻 </strong>
       <br><br>
         <a href="https://github.com/Sour4vS/github-readme-quotes">
