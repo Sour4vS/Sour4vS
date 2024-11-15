@@ -8,8 +8,6 @@
        alt="animated-line-image-0426" 
        width="1920" 
        height="2.3" />
-
-
 <br><br>
 Welcome to my GitHub profile!🌟 
 I'm currently exploring Java ☕ and diving into Data structures 📊  <br>
