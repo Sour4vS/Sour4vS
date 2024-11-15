@@ -40,7 +40,7 @@ Here, you'll find my journey as I build projects 🛠️ and solve problems 🧩
 <table align="center" style="width:80%; border-collapse: collapse; margin-bottom: 20px;">
     <tr>
         <td width="30%" align="center" style="border: none; padding: 0;">
-            <img src="https://media.giphy.com/media/l2R0cvMrULqv6se4M/giphy.gif?cid=ecf05e47j1evqibdjuhutc2thiv7fah0cbo4996qbrn0mhu5&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Center GIF" style="width: 100%; border: none;" />
+            <img src="https://github.com/Sour4vS/Sour4vS/blob/main/2566f046942a2c6b62151948b23b8f34-2.gif" alt="Center GIF" style="width: 100%; border: none;" />
         </td>
         <td width="70%" align="left" style="padding: 0;">
             <img src="https://github-readme-stats.vercel.app/api?username=Sour4vS&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="github-stats" style="width: 100%; border-radius: 10px;" />
@@ -62,7 +62,7 @@ Here, you'll find my journey as I build projects 🛠️ and solve problems 🧩
     
 <table>
   <tr>
-     <td width="27%" align="center" style="border: none; padding: 0;">
+     <td width="30%" align="center" style="border: none; padding: 0;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sour4vS&theme=github_dark" alt="Productive Time Card"style="width: 100%; border: none;" />
     </td>
     <td width="73%" align="left" style="padding: 0;">
