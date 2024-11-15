@@ -36,7 +36,7 @@ Here, you'll find my journey as I build projects 🛠️ and solve problems 🧩
 
 - Gmail: Sour4vS@gmail.com
 
- <!-- First Table -->
+
 <table align="center" style="width:80%; border-collapse: collapse; margin-bottom: 20px;">
     <tr>
         <td width="30%" align="center" style="border: none; padding: 0;">
@@ -60,3 +60,17 @@ Here, you'll find my journey as I build projects 🛠️ and solve problems 🧩
     </tr>
 </table>
     
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sour4vS&theme=github_dark" alt="Productive Time Card" />
+    </td>
+    <td>
+    <strong>Today's developer quotes! 💻 </strong>
+      <br><br>
+        <a href="https://github.com/Sour4vS/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=swift&border=true" alt="Readme Quotes" />
+      </a>
+    </td>
+  </tr>
+</table>
