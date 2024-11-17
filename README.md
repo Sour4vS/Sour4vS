@@ -32,28 +32,21 @@ Here, you'll find my journey as I build projects 🛠️ and solve problems 🧩
 
 - Gmail: Sour4vS@gmail.com
 
-<table align="center" style="width:80%; border-collapse: collapse; margin-bottom: 20px;">
+<table align="center">
     <tr>
         <!-- Left Column with GIF -->
-        <td width="53%" align="center" style="border: none; padding: 0;">
-            <img src="https://github.com/Sour4vS/Sour4vS/blob/main/54b5b572a814ce721e1b01adabed5c84.gif" alt="Center GIF" style="width: 100%; border: none;" />
+        <td width="50%" align="center">
+            <img src="https://github.com/Sour4vS/Sour4vS/blob/main/2566f046942a2c6b62151948b23b8f34-2.gif" alt="Center GIF" style="width: 80%; border-radius: 10px;" />
         </td>
-        <!-- Right Column Split into Two (Top and Bottom) -->
-        <td width="60%" style="padding: 0;">
-            <table style="width: 100%; height: 100%; border-collapse: collapse;">
-                <tr>
-                    <!-- Upper Graph -->
-                    <td style="padding: 0; height: 50%;">
-                        <img src="https://github-readme-stats.vercel.app/api?username=Sour4vS&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="github-stats" style="width: 100%; border-radius: 10px;" />
-                    </td>
-                </tr>
-                <tr>
-                    <!-- Lower Graph -->
-                    <td style="padding: 0; height: 50%;">
-                        <img src="https://streak-stats.demolab.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="streak-stats" style="width: 100%; border-radius: 10px;" />
-                    </td>
-                </tr>
-            </table>
+        <!-- Right Column with Graphs -->
+        <td width="50%" align="center">
+            <img align="center"
+                src="https://github-readme-streak-stats.herokuapp.com/?user=Sour4vS&theme=react&border_radius=10"
+                alt="streak stats" />
+            <br></br>
+            <img align="center"
+                src="https://github-readme-stats.vercel.app/api?username=Sour4vS&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"
+                alt="readme stats" />
         </td>
     </tr>
 </table>
