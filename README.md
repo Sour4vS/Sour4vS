@@ -32,17 +32,38 @@ Here, you'll find my journey as I build projects 🛠️ and solve problems 🧩
 
 - Gmail: Sour4vS@gmail.com
 
-
 <table align="center" style="width:80%; border-collapse: collapse; margin-bottom: 20px;">
     <tr>
-        <td width="30%" align="center" style="border: none; padding: 0;">
-            <img src="https://github.com/Sour4vS/Sour4vS/blob/main/2566f046942a2c6b62151948b23b8f34-2.gif" alt="Center GIF" style="width: 100%; border: none;" />
+        <!-- Left Column with GIF -->
+        <td width="53%" align="center" style="border: none; padding: 0;">
+            <img src="https://github.com/Sour4vS/Sour4vS/blob/main/142f59e54959666622e37ce9e0780663.gif" alt="Center GIF" style="width: 100%; border: none;" />
         </td>
-        <td width="70%" align="left" style="padding: 0;">
-            <img src="https://github-readme-stats.vercel.app/api?username=Sour4vS&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="github-stats" style="width: 100%; border-radius: 10px;" />
+        <!-- Right Column Split into Two (Top and Bottom) -->
+        <td width="60%" style="padding: 0;">
+            <table style="width: 100%; height: 100%; border-collapse: collapse;">
+                <tr>
+                    <!-- Upper Graph -->
+                    <td style="padding: 0; height: 50%;">
+                        <img src="https://github-readme-stats.vercel.app/api?username=Sour4vS&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="github-stats" style="width: 100%; border-radius: 10px;" />
+                    </td>
+                </tr>
+                <tr>
+                    <!-- Lower Graph -->
+                    <td style="padding: 0; height: 50%;">
+                        <img src="https://streak-stats.demolab.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="streak-stats" style="width: 100%; border-radius: 10px;" />
+                    </td>
+                </tr>
+            </table>
         </td>
     </tr>
 </table>
+
+
+
+    
+ 
+
+
 
 <!-- Second Table -->
 <table align="center" style="width:80%; border-collapse: collapse;">
@@ -58,3 +79,4 @@ Here, you'll find my journey as I build projects 🛠️ and solve problems 🧩
     
  ### <img align='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width='29' /> Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Error fetching resource, Refresh again to view Jokes Card" width='100%' />
+    
