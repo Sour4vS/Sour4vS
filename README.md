@@ -36,7 +36,7 @@ Here, you'll find my journey as I build projects 🛠️ and solve problems 🧩
     <tr>
         <!-- Left Column with GIF -->
         <td width="53%" align="center" style="border: none; padding: 0;">
-            <img src="https://github.com/Sour4vS/Sour4vS/blob/main/142f59e54959666622e37ce9e0780663.gif" alt="Center GIF" style="width: 100%; border: none;" />
+            <img src="https://github.com/Sour4vS/Sour4vS/blob/main/54b5b572a814ce721e1b01adabed5c84.gif" alt="Center GIF" style="width: 100%; border: none;" />
         </td>
         <!-- Right Column Split into Two (Top and Bottom) -->
         <td width="60%" style="padding: 0;">
