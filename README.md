@@ -35,8 +35,8 @@ Here, you'll find my journey as I build projects 🛠️ and solve problems 🧩
 <table align="center">
     <tr>
         <!-- Left Column with GIF -->
-        <td width="50%" align="center">
-            <img src="142f59e54959666622e37ce9e0780663.gif" style="width: 90%; border-radius: 10px;" />
+        <td width="45%" align="center">
+            <img src="142f59e54959666622e37ce9e0780663.gif" style="width: 110%; border-radius: 10px;" />
         </td>
         <!-- Right Column with Graphs -->
         <td width="50%" align="center">
