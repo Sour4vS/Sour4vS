@@ -51,13 +51,6 @@ Here, you'll find my journey as I build projects 🛠️ and solve problems 🧩
     </tr>
 </table>
 
-
-
-    
- 
-
-
-
 <!-- Second Table -->
 <table align="center" style="width:80%; border-collapse: collapse;">
     <tr>
@@ -65,7 +58,7 @@ Here, you'll find my journey as I build projects 🛠️ and solve problems 🧩
             <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sour4vS&theme=react-dark&bg_color=20232a&hide_border=true" alt="activity-graph" style="width: 100%; border-radius: 10px;" />
         </td>
         <td width="30%" align="center" style="padding: 0;">
-            <img src="https://github.com/Sour4vS/Sour4vS/blob/main/829afba7de253e927c9c56bd58c4ba3d.gif" alt="Side GIF" style="width: 100%; border-radius: 10px;" />
+            <img src="f455bf31de7322e2b2ebe50bb5af1596.gif" alt="Side GIF" style="width: 100%; border-radius: 10px;" />
         </td>
     </tr>
 </table>
