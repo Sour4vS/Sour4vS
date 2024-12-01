@@ -1,4 +1,4 @@
-# Hi there! I'm Sourav 👋✨
+# Hi there! I'm Sourav 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=Sour4vS&color=blue) &nbsp;&nbsp;&nbsp; ![Availability](https://img.shields.io/badge/Status-Active-green) &nbsp;&nbsp;&nbsp; ![Java](https://img.shields.io/badge/Java-Beginner-orange) &nbsp;&nbsp;&nbsp; ![DS](https://img.shields.io/badge/Data_Structures-Beginner-blue) &nbsp;&nbsp;&nbsp; ![Open_issues](https://img.shields.io/github/issues/Sour4vS/REPOSITORY_NAME?color=red) &nbsp;&nbsp;&nbsp; ![GitHub followers](https://img.shields.io/github/followers/Sour4vS?label=Followers&color=yellow)
 
