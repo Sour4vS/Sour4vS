@@ -58,7 +58,7 @@ Here, you'll find my journey as I build projects 🛠️ and solve problems 🧩
             <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sour4vS&theme=react-dark&bg_color=20232a&hide_border=true" alt="activity-graph" style="width: 100%; border-radius: 10px;" />
         </td>
         <td width="30%" align="center" style="padding: 0;">
-            <img src="https://github.com/Sour4vS/Sour4vS/blob/main/53f3950868f72fd3525fec143f261971.gif" alt="Side GIF" style="width: 100%; border-radius: 10px;" />
+            <img src="f455bf31de7322e2b2ebe50bb5af1596.gif" alt="Side GIF" style="width: 100%; border-radius: 10px;" />
         </td>
     </tr>
 </table>
