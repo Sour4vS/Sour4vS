@@ -1,68 +1,48 @@
-# Hi there! I'm Sourav 👋
+<div align="center">
+  <a href="https://postimg.cc/pytCmbKy">
+    <img src="https://i.postimg.cc/T2K4HTwj/2ede7b2dc3b86f162d05817aed376b73.jpg" width="100%" alt="Banner"/>
+  </a>
+</div>
 
-![Profile views](https://komarev.com/ghpvc/?username=Sour4vS&color=blue) &nbsp;&nbsp;&nbsp; ![Availability](https://img.shields.io/badge/Status-Active-green) &nbsp;&nbsp;&nbsp; ![Java](https://img.shields.io/badge/Java-Beginner-orange) &nbsp;&nbsp;&nbsp; ![DS](https://img.shields.io/badge/Data_Structures-Beginner-blue) &nbsp;&nbsp;&nbsp; ![Open_issues](https://img.shields.io/github/issues/Sour4vS/REPOSITORY_NAME?color=red) &nbsp;&nbsp;&nbsp; ![GitHub followers](https://img.shields.io/github/followers/Sour4vS?label=Followers&color=yellow)
+<br>
 
+<table>
+  <tr>
+    <td colspan="2" align="center" valign="middle">
+      <a href="https://www.linkedin.com/in/sourav-s-847706320/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHRpdGxlPkxpbmtlZEluPC90aXRsZT48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=&logoColor=white"></a>
+      &nbsp;
+      <a href="mailto:sour4vs@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+      &nbsp;
+      <a href=""><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSA5aC00VjNIOXY2SDVsNyA3IDctN3pNNSAxOHYyaDE0di0ySDV6Ii8+PC9zdmc+&logoColor=white"></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="middle">
+      <h3>Hey there! I’m Sourav 👋</h3>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle" width="70%">
+      <br>
+      <b>Python Backend Developer & Computer Science Undergraduate</b> (Class of 2027)<br><br>
 
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0426.gif" 
-       border="0" 
-       alt="animated-line-image-0426" 
-       width="1920" 
-       height="2.3" />
-<br><br>
-Welcome to my GitHub profile!🌟 
-I'm currently exploring Java ☕ and diving into Data structures 📊  <br>
-Here, you'll find my journey as I build projects 🛠️ and solve problems 🧩 to strengthen my coding skills.
+I'm a Computer Science undergraduate from Kerala, India, passionate about building scalable backend applications and exploring the world of Artificial Intelligence through practical projects.<br><br>
 
-## 🔭 What I'm Working On
+Currently, I'm focused on strengthening my skills in <b>Python</b>, <b>SQL</b>, and <b>FastAPI</b> while building backend-focused projects that improve my problem-solving and software development skills. I'm also exploring AI fundamentals and applying them to real-world ideas.<br><br>
 
-- **Java Basics**: Building a strong foundation in Java programming 💻, covering classes, objects, methods, and OOP principles.
-- **Data Structures**: Learning linked lists, stacks, queues, and more 📚 to sharpen my problem-solving abilities.
-
-## 🌱 Learning Journey
-
-- **Core Java**: Constructors, inheritance, method overloading, exception handling, and file I/O.
-- **Problem-Solving**: Solving algorithmic challenges to deepen my understanding of data structures and improve efficiency 🚀.
-
-## 📂 Featured Projects
-
-- **Basic Java Programs**: Small projects to demonstrate Java concepts like string manipulation, matrix operations, file handling, and multithreading.
-- **Data Structure Implementations**: Linked lists, stacks, and other foundational data structures coded from scratch 🔢.
-
-## 📫 Connect with Me
-
-- Gmail: Sour4vS@gmail.com
-
-<table align="center">
-    <tr>
-        <!-- Left Column with GIF -->
-        <td width="45%" align="center">
-            <img src="142f59e54959666622e37ce9e0780663.gif" style="width: 110%; border-radius: 10px;" />
-        </td>
-        <!-- Right Column with Graphs -->
-        <td width="50%" align="center">
-            <img align="center"
-                src="https://github-readme-streak-stats.herokuapp.com/?user=Sour4vS&theme=react&border_radius=10"
-                alt="streak stats" />
-            <br></br>
-            <img align="center"
-                src="https://github-readme-stats.vercel.app/api?username=Sour4vS&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"
-                alt="readme stats" />
-        </td>
-    </tr>
+I enjoy learning by building, continuously improving my GitHub portfolio, and creating projects that combine clean backend development with practical AI solutions.<br><br>
+    </td>
+    <td align="center" valign="middle" width="30%">
+      <a href="https://postimg.cc/NyFKLkth">
+        <img src="https://i.postimg.cc/YSfYndyS/20260612-021944.png" width="220" alt="About Me Portrait"/>
+      </a>
+    </td>
+  </tr>
 </table>
 
-<!-- Second Table -->
-<table align="center" style="width:80%; border-collapse: collapse;">
-    <tr>
-        <td width="70%" align="center" style="padding: 0;">
-            <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sour4vS&theme=react-dark&bg_color=20232a&hide_border=true" alt="activity-graph" style="width: 100%; border-radius: 10px;" />
-        </td>
-        <td width="30%" align="center" style="padding: 0;">
-            <img src="f455bf31de7322e2b2ebe50bb5af1596.gif" alt="Side GIF" style="width: 100%; border-radius: 10px;" />
-        </td>
-    </tr>
-</table>
-    
- ### <img align='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width='29' /> Here's some humor for you:
-<img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Error fetching resource, Refresh again to view Jokes Card" width='100%' />
+<div align="center">
+  <a href="https://postimg.cc/XBBCDcJP">
+    <img src="https://i.postimg.cc/prqJrstP/20260612-025300.jpg" width="100%" alt="Coding Quotes"/>
+  </a>
+</div>
     
